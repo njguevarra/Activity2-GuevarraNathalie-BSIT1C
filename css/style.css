@@ -110,3 +110,17 @@ div p{
     margin-top: 10px;
     margin-bottom: 25px;
 }
+#blog h3 {
+    padding-left: 38px;
+    padding-right: 40px;
+    padding-top: 10px;
+}
+a{
+    color: rgb(128, 128, 128);
+    padding-left: 36px;
+    padding-right: 40px;
+    text-decoration: none;
+}
+a:hover{
+    color: blue;
+}
