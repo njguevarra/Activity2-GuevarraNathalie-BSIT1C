@@ -124,3 +124,8 @@ a{
 a:hover{
     color: blue;
 }
+#services{
+    background-color: rgb(241, 241, 241);
+    margin-top: 160px;
+    height: 477px;
+}
