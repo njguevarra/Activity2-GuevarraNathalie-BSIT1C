@@ -101,3 +101,12 @@ div:nth-child(2){
     font-size: 40px;
     text-align: 230px;
 }
+div p{
+    color: black;
+    width: 308px;
+    padding: 5px;
+    text-align: start;
+    margin-left: 30px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
