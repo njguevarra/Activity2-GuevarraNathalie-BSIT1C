@@ -159,7 +159,25 @@ li:nth-child(2){
     margin-right: 10px;
     cursor: pointer;
 }
-li:nth-child(2){
+li:nth-child(3){
+    font-size: 20px;
+    background: white;
+    width: 230;
+    height: 98px;
+    padding: 38px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+li:nth-child(4){
+    font-size: 20px;
+    background: white;
+    width: 230;
+    height: 98px;
+    padding: 38px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+li:nth-child(5){
     font-size: 20px;
     background: white;
     width: 230;
