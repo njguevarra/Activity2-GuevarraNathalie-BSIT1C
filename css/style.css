@@ -137,6 +137,8 @@ a:hover{
 ul{
     margin-top: 40px;
     text-align: center;
-    
+}
+li{
+    display: inline-block;
 }
 
