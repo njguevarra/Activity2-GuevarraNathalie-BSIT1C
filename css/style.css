@@ -141,4 +141,21 @@ ul{
 li{
     display: inline-block;
 }
-
+li:nth-child(1){
+    font-size: 20px;
+    width: 220px;
+    height: 98px;
+    padding: 38px;
+    background-color: orangered;
+    margin-right: 10px;
+    cursor: pointer;
+}
+li:nth-child(2){
+    font-size: 20px;
+    background: white;
+    width: 220;
+    height: 98px;
+    padding: 38px;
+    margin-right: 10px;
+    cursor: pointer;
+}
