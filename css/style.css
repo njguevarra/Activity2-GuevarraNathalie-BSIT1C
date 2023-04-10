@@ -61,5 +61,26 @@ div:nth-child(4){
     color: white;
     margin-right: 11px;
     margin-top: 55px;
-    box-shadow: 0px -70px 500px 1ox rgb(45, 42, 42)inset;
+    box-shadow: 0px -70px 500px 1px rgb(45, 42, 42)inset;
+}
+div:nth-child(4) p{
+    color: white;
+}
+div:nth-child(4) a{
+    color: white;
+}
+div:nth-child(4) a:hover{
+    color: red;
+}
+div:nth-child(3){
+    display: inline-block;
+    border: 1px solid lightgray;
+    height: 420px;
+    width: 370px;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+    margin-right: 11px;
+    border: 1px solid rgb(227, 219, 219);
+    box-shadow: 0px 1px 3px 0px rgb(234, 220, 220);
 }
