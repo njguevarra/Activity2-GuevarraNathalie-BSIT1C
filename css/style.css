@@ -1,0 +1,65 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#mywebsite{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#landing{
+    background-image: url(../img/landing-img.jpg);
+    background-size: cover;
+    height: 100vh;
+    box-shadow: 0px -150px 300px 1px rgb(136, 136, 136);
+}
+#landing h1{
+    font-size: 63px;
+    position: relative;
+    text-shadow: 3px 3px 2px black;
+}
+#landing p{
+    font-size: 24px;
+    padding-top: 18px;
+    position: relative;
+    text-shadow: 3px 3px 2px black;
+}
+#landing h1, p{
+    color: white;
+    text-align: center;
+    top: 440px;
+}
+#blog{
+    padding-left: 140px;
+}
+img{
+    align-items: center;
+    height: 230px;
+    width: 370px;
+    padding-bottom: 1%;
+}
+div:nth-child(5){
+    display: inline-block;
+    border: 1px solid lightgray;
+    height: 420px;
+    width: 370px;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+    margin-right: 12px;
+    border: 1px solid rgb(227, 219, 219);
+    box-shadow: 0px 1px 3px 0px rgb(234, 220, 220);
+}
+div:nth-child(4){
+    display: inline-block;
+    border: 1px solid black;
+    height: 420px;
+    width: 370px;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    margin-right: 11px;
+    margin-top: 55px;
+    box-shadow: 0px -70px 500px 1ox rgb(45, 42, 42)inset;
+}
