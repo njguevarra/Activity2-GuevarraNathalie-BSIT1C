@@ -99,7 +99,7 @@ div:nth-child(2){
 #blog h2{
     margin-top: 150px;
     font-size: 40px;
-    text-align: 230px;
+    text-align: center;
 }
 div p{
     color: black;
